@@ -74,7 +74,7 @@ public class MainApp {
                 StringBuffer sb=new StringBuffer(versuri[i]);
                 char charAtIndex = versuri[i].charAt(0);
                 //System.out.println(charAtIndex);
-                char charInLowerCase = Character.toLowerCase(charAtIndex);
+                char charInLowerCase = Character.toLowerCase(charAtIndex);  //!!! aproape toate versurile incep cu litera mare deci am facut cu lowercase
                 sb.setCharAt(0,charInLowerCase);
                 flux_out.println(sb + " " + nr_cuv + " " + nr_voc);
             }else {
