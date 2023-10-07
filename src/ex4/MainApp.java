@@ -79,6 +79,7 @@ public class MainApp {
             v[i]=p;
         }
 
+        System.out.println("     NUME     |        CNP       |   VARSTA   ");
         for(int i=0;i<n;i++){
             System.out.println(v[i].getNume() + " " + v[i].getCnp()+" "+v[i].calcVarsta(v[i].getCnp()));
         }
@@ -137,7 +138,7 @@ public class MainApp {
             byte b = (byte) (ch2 - '0');
             x = x + a * b;
         }
-        System.out.println(x+" "+(x%11));
+        //System.out.println(x+" "+(x%11));
         return (byte)(x%11);
     }
 

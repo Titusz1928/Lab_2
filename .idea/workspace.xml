@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85bb205c-1071-47f3-90b9-b6f069ccda67" name="Changes" comment="fourth commit">
-      <change afterPath="$PROJECT_DIR$/src/ex4/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="85bb205c-1071-47f3-90b9-b6f069ccda67" name="Changes" comment="ex4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/MainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="5744265b-a6dc-4fb3-97ec-03cd3f815fc7" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696259058396</updated>
-      <workItem from="1696683559403" duration="6381000" />
+      <workItem from="1696683559403" duration="6589000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1696264733157</created>
@@ -85,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696265332595</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ex4">
+      <option name="closed" value="true" />
+      <created>1696690040796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696690040796</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +99,8 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
     <MESSAGE value="fourth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fourth commit" />
+    <MESSAGE value="ex4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
